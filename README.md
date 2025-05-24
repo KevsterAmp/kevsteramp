@@ -11,5 +11,3 @@
   - [showcase video](https://www.facebook.com/share/v/1C6tNF3htf/) garnered 35k+ views and 1.5k likes
 - i use [ nvim ](https://github.com/KevsterAmp/Lazyvim-config.nvim) and [tmux](https://github.com/tmux/tmux/wiki) btw
 - ~cs @ [pup-manila](https://www.pup.edu.ph/)~ (dropped out on 1st yr lol :p)
-
-links: [personal website](https://kevinamparado.com/) - [LinkedIn](https://www.linkedin.com/in/kevin-amparado/)
